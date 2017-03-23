@@ -1,4 +1,6 @@
 {
   "name": "ember-cli-quantities-shim",
-  "dependencies": {}
+  "dependencies": {
+    "js-quantities": "^1.6.6"
+  }
 }
