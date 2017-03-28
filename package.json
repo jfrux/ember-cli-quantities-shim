@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-quantities-shim",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Brings quantities.js into your Ember applications",
   "keywords": [
     "ember-addon",
@@ -29,6 +29,7 @@
     "chalk": "^1.1.1",
     "ember-cli-babel": "^5.0.0",
     "exists-sync": "0.0.4",
+    "js-quantities": "^1.6.6",
     "lodash.defaults": "^4.1.0"
   },
   "devDependencies": {
